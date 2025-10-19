@@ -4,4 +4,5 @@ I'm a Full-Stack Developer in training with a growing passion for building scala
 I’m currently exploring Flutter for web and mobile development, integrating Firebase for backend services, authentication, and real-time databases. My goal is to master both the frontend and backend aspects of development to create seamless, end-to-end digital experiences.
 
 💡 Interests: Flutter | Dart | Firebase | Web & Mobile Development | UI/UX Design | Full-Stack Development
+
 🚀 Goal: To grow into a skilled full-stack developer capable of building innovative, reliable, and impactful software solutions.
